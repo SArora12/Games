@@ -51,3 +51,8 @@ Here's an overview of the game flow:
 ## Have Fun!
 
 Enjoy playing this text-based adventure game and explore different paths and outcomes. Make strategic choices to reach the ultimate ending and become a hero!
+
+##Reference images:
+![image](https://github.com/SArora12/Games/assets/121418505/fd5d756a-7397-4b8c-a162-95258d64b0a5)
+![image](https://github.com/SArora12/Games/assets/121418505/eda02915-c27f-4462-be8f-04efc4da86d8)
+
