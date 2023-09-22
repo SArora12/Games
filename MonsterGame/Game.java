@@ -27,7 +27,6 @@ public class Game {
     public static void main(String[] args) {
         new Game();
     }
-
     public Game(){
         window = new JFrame();
         window.setSize(800, 600);
@@ -134,7 +133,6 @@ public class Game {
         playerSetup();
     }
     public void playerSetup(){
-
         playerHP = 15;
         monsterHP = 20;
         weapon = "Knife";
@@ -161,7 +159,6 @@ public class Game {
     public void attackGuard(){
         position = "attackGuard";
         mainTextArea.setText("Guard: Hey don't be stupid!\n\nThe guard fought back and hit you hard.\n(You receive 3 damage)");
-        //playerHP = playerHP -3;
         playerHP -=3;
         hpLabelNumber.setText(""+playerHP);
         choice1.setText(">");
