@@ -48,5 +48,5 @@ Have fun playing Tic-Tac-Toe with a friend and test your strategic skills in thi
 ![image](https://github.com/SArora12/Games/assets/121418505/ab9e6b4f-1c56-4a9a-abd2-febe12a87e08)
 
 
-![image](https://github.com/SArora12/Games/assets/121418505/71deb1cd-0fb7-487e-85c7-e8c5f05b7e39)
+<img width="295" alt="image" src="https://github.com/SArora12/Games/assets/121418505/1deda6f2-6aae-42f9-98c3-59ff38498585">
 
